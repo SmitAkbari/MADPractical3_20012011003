@@ -15,7 +15,7 @@
         android:background="@android:color/transparent">
         <com.google.android.material.appbar.MaterialToolbar
             android:id="@+id/toolbar"
-            app:title="MADPractical3_20012011013"
+            app:title="MADPractical3_20012011003"
             app:layout_scrollFlags="scroll|enterAlways|snap"
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"/>
